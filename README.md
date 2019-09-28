@@ -43,9 +43,6 @@ http://localhost:4000/issues/delete/:id
 
 Please remember to export the Issue schema
 
-## Example operations
-
-#### Show all bacons
 ```js
 models.js
 const mongoose = require('mongoose');
